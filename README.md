@@ -118,7 +118,7 @@ RePET is a student-led initiative that transforms PET bottles into polyester fib
 - JavaScript for interactivity (menu toggle, content reveal)
 
 ### Deployment
-Hosted via **GitHub Pages**: [Live URL here]
+Hosted via **GitHub Pages**: [https://powel743.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/]
 
 ### Author
 **Collin Powel Odira**
