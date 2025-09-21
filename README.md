@@ -88,3 +88,37 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+
+
+# PROJECT DOCUMENTATION #
+# RePET — Student-led Sustainability Project
+
+## Assignment Instructions
+*(Original README content from the forked repo goes here)*
+- Design, code, and deploy a multipage website
+- Use HTML5, CSS, JS
+- Responsive design
+- Etc.
+
+---
+
+## Project Documentation
+
+### Project Overview
+RePET is a student-led initiative that transforms PET bottles into polyester fiber. This website showcases the project, explains its mission, vision, and provides a way for users to get involved.
+
+### Website Structure
+- **Home (`index.html`)** — Hero section, features, CTA
+- **About (`about.html`)** — Project mission, vision, and team
+- **Contact (`contact.html`)** — Contact form for inquiries
+
+### Technologies Used
+- HTML5 for semantic structure
+- CSS3 for styling
+- JavaScript for interactivity (menu toggle, content reveal)
+
+### Deployment
+Hosted via **GitHub Pages**: [Live URL here]
+
+### Author
+**Collin Powel Odira**
